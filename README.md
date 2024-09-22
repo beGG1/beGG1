@@ -10,13 +10,9 @@
     <tr>
         <td align="center"><a href="https://github.com/beGG1#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beGG1&theme=default"/></a><a href="https://github.com/beGG1#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beGG1&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-      <td align="center">
-         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-            <img alt="github-snake" src="github-snake.svg" />
-         </picture>
-      </td>
-    </tr>
 </table>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+   <img alt="github-snake" src="github-snake.svg" />
+</picture>
