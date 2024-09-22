@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=beGG1&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
 <!--
 **beGG1/beGG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
